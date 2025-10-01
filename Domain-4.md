@@ -1,4 +1,4 @@
-# Domain 4: Diretrizes para uma IA Responsável
+# Domain 4: Guidelines for Responsible AI
 
 ## 4.1 Desenvolvimento Responsável na AWS
 
